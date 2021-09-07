@@ -94,11 +94,11 @@ Zapier and Integromat apps have a trigger configuration and a data payload you'l
 
 
 
-* 11 ETH for the development scope listed above
-* 1.5 ETH for estimated server costs for a year
-* 2.5 ETH for estimated maintenance work for a year
+* 9 ETH for the development scope listed above
+* 0.083 ETH for estimated server costs for a quarter (3 months)
+* 0.5 ETH for estimated maintenance work for a quarter (3 months)
 
-15 ETH total.
+9.583 ETH total.
 
 Subsequent years of maintenance and future improvements/features to come in separate proposals.
 
